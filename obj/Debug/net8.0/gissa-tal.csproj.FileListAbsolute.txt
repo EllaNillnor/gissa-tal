@@ -1,0 +1,14 @@
+C:\Github\gissa-tal\bin\Debug\net8.0\gissa-tal.exe
+C:\Github\gissa-tal\bin\Debug\net8.0\gissa-tal.deps.json
+C:\Github\gissa-tal\bin\Debug\net8.0\gissa-tal.runtimeconfig.json
+C:\Github\gissa-tal\bin\Debug\net8.0\gissa-tal.dll
+C:\Github\gissa-tal\bin\Debug\net8.0\gissa-tal.pdb
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.AssemblyInfoInputs.cache
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.AssemblyInfo.cs
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.csproj.CoreCompileInputs.cache
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.dll
+C:\Github\gissa-tal\obj\Debug\net8.0\refint\gissa-tal.dll
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.pdb
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.genruntimeconfig.cache
+C:\Github\gissa-tal\obj\Debug\net8.0\ref\gissa-tal.dll
