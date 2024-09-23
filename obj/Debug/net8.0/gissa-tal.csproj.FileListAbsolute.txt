@@ -12,3 +12,4 @@ C:\Github\gissa-tal\obj\Debug\net8.0\refint\gissa-tal.dll
 C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.pdb
 C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.genruntimeconfig.cache
 C:\Github\gissa-tal\obj\Debug\net8.0\ref\gissa-tal.dll
+C:\Github\gissa-tal\obj\Debug\net8.0\gissa-tal.sourcelink.json
