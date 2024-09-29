@@ -6,8 +6,7 @@ int tal= rnd.Next(1,101);
 int count = 0;
 
 Console.Write("Gissa vilket heltal mellan 1 & 100 som datorn valt: ");
-    string svar = Console.ReadLine(); 
-    int gissning = int.Parse(svar);
+    int gissning = int.Parse(Console.ReadLine());
 
 while(gissning != tal)
 {
@@ -15,20 +14,16 @@ while(gissning != tal)
         if(gissning <= tal ){
             Console.WriteLine("gissningen är för låg");
             Console.Write("gör en ny gissning: ");
-            string svar1 = Console.ReadLine();
-            gissning = int.Parse(svar1);
+            gissning = int.Parse(Console.ReadLine());
             count++;
         }
         else{
             Console.WriteLine("gissningne är för hög");
             Console.Write("gör en ny gissning: ");
-            string svar2 = Console.ReadLine();
-            gissning = int.Parse(svar2);
+            gissning = int.Parse(Console.ReadLine());
             count++;
         }
 }
-Console.Write("Du gissade rätt! talet var ");
-Console.WriteLine(tal);
+Console.WriteLine("Du gissade rätt! talet var "+ tal );
+Console.WriteLine("antal gissningar: " + count );
 
-Console.Write("antal gissningar ");
-Console.WriteLine(count);
